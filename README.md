@@ -15,17 +15,12 @@ All-in-one Python scripts designed to handle setup, retail ISO extraction, auto-
 
 ---
 
-## Usage Instructions
+### Usage Instructions
+Enable Execution: Right-click the script file, select Properties > Permissions, and check Allow executing file as program.
 
-1. **Initial Setup:** Run any script with the setup flag to initialize your Wine prefix and extract retail `.tre` files from your backup ISOs:
-   ```bash
-   python3 <script_name>.py --setup
-   ```
-2. **Normal Execution:** Run the script directly to sync patches, authenticate, and boot the game:
-   ```bash
-   python3 <script_name>.py
-   ```
+Open Terminal: Right-click inside the folder containing the script and select Open in Terminal.
 
+Run the Script: Type ./<script_name.py> and press Enter.
 ---
 
 ## Acknowledgments
